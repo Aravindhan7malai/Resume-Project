@@ -13,6 +13,10 @@ This project is a personal resume website for showcasing my skills, experience, 
 
 This website serves as an online resume for Aravindhan Elumalai, presenting information about my education, professional experience, technical skills, and contact details. It is designed to be responsive and accessible across different devices and screen sizes.
 
+## Link to access the Online Portfolio
+
+https://aravindhan7malai.github.io/Resume-Project/
+
 ## Features
 
 - Display personal information including name, profile photo, email, and phone number.
